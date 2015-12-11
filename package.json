@@ -1,0 +1,15 @@
+{
+  "name": "etproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projectet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Nöthe - me@fabiannoethe.com - www.fabiannoethe.com",
+  "license": "ISC",
+  "dependencies": {
+    "project-oxford": "^0.3.0",
+    "request": "^2.67.0"
+  }
+}
